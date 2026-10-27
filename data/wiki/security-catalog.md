@@ -49,7 +49,7 @@ Historical and stale research remains readable; only current validated opinions 
 | [Lithium Americas Corp.](securities/security_fb87fac302a5446a1ced) | LAC (USD) | researched: valuation_unsupported | valuation_unsupported | — / — / — USD | 2026-10-19T01:28:48.199824Z | 2026-11-18T01:28:48.199824Z |
 | [MP Materials Corp.](securities/security_cd492d97064d8574156e) | MP (USD) | researched: hold | complete | 18.00 / 40.00 / 72.00 USD | 2026-10-18T20:45:53.247385Z | 2026-11-17T20:45:53.247385Z |
 | [Materialise NV](securities/security_b61c642d038d71be3821) | MTLS (USD) | researched: hold | complete | 6.30 / 9.00 / 12.20 USD | 2026-10-18T23:13:04.375396Z | 2026-11-17T23:13:04.375396Z |
-| [MercadoLibre, Inc.](securities/security_4935c6e39e38273a1731) | MELI (USD) | researched: buy | complete | 1,440.00 / 2,200.00 / 3,120.00 USD | 2026-10-19T00:17:51.170792Z | 2026-11-18T00:17:51.170792Z |
+| [MercadoLibre, Inc.](securities/security_4935c6e39e38273a1731) | MELI (USD) | researched: hold | complete | 1,440.00 / 2,200.00 / 3,120.00 USD | 2026-10-19T00:17:51.170792Z | 2026-11-18T00:17:51.170792Z |
 | [Meta Platforms, Inc.](securities/security_d12e746b3c9d392183cc) | META (USD) | researched: research_expired_or_future | complete | 400.00 / 600.00 / 800.00 USD | 2026-08-28T19:45:56Z | 2026-09-27T19:45:56Z |
 | [Microsoft Corporation](securities/security_204be2a44063993de1a8) | MSFT (USD) | researched: hold | complete | 418.00 / 567.00 / 698.00 USD | 2026-10-20T20:13:08.599471Z | 2026-11-19T20:13:08.599471Z |
 | [NVIDIA Corporation](securities/security_33d9c44facc75c726c7d) | NVDA (USD) | researched: buy | complete | 198.00 / 310.50 / 448.00 USD | 2026-10-18T19:50:33.927425Z | 2026-11-17T19:50:33.927425Z |
@@ -64,7 +64,7 @@ Historical and stale research remains readable; only current validated opinions 
 | [Powell Industries, Inc.](securities/security_0b67d6c8e3fd3366a257) | POWL (USD) | researched: valuation_unsupported | valuation_unsupported | — / — / — USD | 2026-10-23T20:13:28.238153Z | 2026-11-22T20:13:28.238153Z |
 | [Prosus N.V.](securities/security_8b703a8adf5f864acaa4) | PRX (EUR) | researched: buy | complete | 27.00 / 48.50 / 63.00 EUR | 2026-10-19T00:25:13.322131Z | 2026-11-17T00:25:13.322131Z |
 | [Proto Labs, Inc.](securities/security_f18cd57a5e086583c861) | PRLB (USD) | researched: insufficient_confidence | complete | 44.00 / 75.60 / 108.80 USD | 2026-10-18T23:17:23.066155Z | 2026-11-17T23:17:23.066155Z |
-| [QUALCOMM Incorporated](securities/security_3a75fc1ccca2ee7c937a) | QCOM (USD) | researched: hold | complete | 102.00 / 166.00 / 220.00 USD | 2026-10-22T20:26:18.005794Z | 2026-11-21T20:26:18.005794Z |
+| [QUALCOMM Incorporated](securities/security_3a75fc1ccca2ee7c937a) | QCOM (USD) | researched: sell | complete | 102.00 / 166.00 / 220.00 USD | 2026-10-22T20:26:18.005794Z | 2026-11-21T20:26:18.005794Z |
 | [Quanta Services, Inc.](securities/security_488a9d7f7a8573597724) | PWR (USD) | researched: hold | complete | 417.50 / 534.40 / 668.00 USD | 2026-10-23T20:09:37.071756Z | 2026-11-22T20:09:37.071756Z |
 | [ROBOTIS Co., Ltd.](securities/security_0c8b3c4291cd97f56d8c) | 108490 (KRW) | needs_attention: research_expired_or_future | complete | 20,625.00 / 70,968.00 / 282,667.00 KRW | 2026-09-01T06:49:44Z | 2026-09-30T06:49:44Z |
 | [RTX Corporation](securities/security_59304f90c440def31dc5) | RTX (USD) | researched: hold | complete | 142.00 / 179.38 / 246.50 USD | 2026-10-19T00:33:47.630267Z | 2026-11-17T00:33:47.630267Z |
@@ -90,7 +90,7 @@ Historical and stale research remains readable; only current validated opinions 
 | [Tencent Holdings Limited](securities/security_de0d83229b369a426b99) | TCEHY (USD) | researched: research_expired_or_future | complete | 40.00 / 65.00 / 90.00 USD | 2026-08-28T19:23:20Z | 2026-09-27T19:23:20Z |
 | [Ternium S.A.](securities/security_2c779e81c27b78c556bb) | TX (USD) | researched: hold | complete | 32.00 / 55.00 / 84.00 USD | 2026-10-22T20:22:14.499873Z | 2026-11-21T20:22:14.499873Z |
 | [Tesla, Inc.](securities/security_dc7a111e297be528d96b) | TSLA (USD) | researched: research_expired_or_future | complete | 5.47 / 31.86 / 243.45 USD | 2026-10-20T12:08:40.691805Z | 2026-10-22T07:00:00Z |
-| [Texas Instruments Incorporated](securities/security_83a56943e18793f685b0) | TXN (USD) | researched: hold | complete | 150.00 / 256.50 / 374.00 USD | 2026-10-19T01:18:02.186939Z | 2026-11-17T01:18:02.186939Z |
+| [Texas Instruments Incorporated](securities/security_83a56943e18793f685b0) | TXN (USD) | researched: sell | complete | 150.00 / 256.50 / 374.00 USD | 2026-10-19T01:18:02.186939Z | 2026-11-17T01:18:02.186939Z |
 | [Twist Bioscience Corporation](securities/security_6cf75bd0ec0aa2a20148) | TWST (USD) | researched: insufficient_confidence | complete | 51.00 / 78.00 / 107.00 USD | 2026-10-19T02:22:31.996188Z | 2026-11-18T02:22:31.996188Z |
 | [Uber Technologies, Inc.](securities/security_e4822686f60a96824b6e) | UBER (USD) | researched: research_expired_or_future | complete | 55.00 / 90.00 / 120.00 USD | 2026-08-28T19:27:50Z | 2026-09-27T19:27:50Z |
 | [UiPath, Inc.](securities/security_eca976f0076a425ea1bb) | PATH (USD) | researched: research_expired_or_future | complete | 9.00 / 17.00 / 27.00 USD | 2026-09-05T10:45:22Z | 2026-10-03T10:45:22Z |
@@ -99,6 +99,6 @@ Historical and stale research remains readable; only current validated opinions 
 | [Veralto Corporation](securities/security_1b773169da5023ce4682) | VLTO (USD) | unresearched: unresearched | missing_research | — / — / — USD | unresearched | — |
 | [Vertiv Holdings Co](securities/security_cb88f9154cfeaa15e878) | VRT (USD) | researched: research_expired_or_future | complete | 166.25 / 281.40 / 402.00 USD | 2026-08-08T11:46:19Z | 2026-09-07T11:46:19Z |
 | [W&T Offshore, Inc.](securities/security_61567714298b9563d1a9) | WTI (USD) | researched: research_expired_or_future | complete | 0.7900 / 3.17 / 6.15 USD | 2026-08-06T14:22:30Z | 2026-08-20T14:22:30Z |
-| [Xometry, Inc.](securities/security_c2e6db30cb59254de418) | XMTR (USD) | researched: hold | complete | 47.00 / 79.00 / 116.00 USD | 2026-10-21T20:25:31.299835Z | 2026-11-20T20:25:31.299835Z |
+| [Xometry, Inc.](securities/security_c2e6db30cb59254de418) | XMTR (USD) | researched: sell | complete | 47.00 / 79.00 / 116.00 USD | 2026-10-21T20:25:31.299835Z | 2026-11-20T20:25:31.299835Z |
 | [Xylem Inc.](securities/security_d2be67701e612ee6625d) | XYL (USD) | unresearched: unresearched | missing_research | — / — / — USD | unresearched | — |
 | [YASKAWA Electric Corporation](securities/security_89969b7dac39b7db5661) | YEC.F (EUR) | researched: insufficient_confidence | complete | 14.82 / 23.68 / 33.07 EUR | 2026-10-19T01:34:58.259599Z | 2026-11-18T01:34:58.259599Z |

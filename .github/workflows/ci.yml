@@ -27,6 +27,12 @@ jobs:
         with:
           persist-credentials: false
           fetch-depth: 0
+      - name: Retrieve preserved migration tag in forks
+        run: |
+          if ! git rev-parse -q --verify refs/tags/pre-research-only-20261018 >/dev/null; then
+            git fetch --no-tags https://github.com/Kabutojira/PaperTrader.git \
+              refs/tags/pre-research-only-20261018:refs/tags/pre-research-only-20261018
+          fi
       - name: Install pinned uv bootstrap
         run: python3 -m pip install --disable-pip-version-check uv==0.8.17
       - name: Install locked Python dependencies

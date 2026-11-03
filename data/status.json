@@ -2,31 +2,13 @@
   "market": {
     "exit_code": 2,
     "failed_tickers": {
-      "security_3853e54c619d597dcaa1": "required_session_missing",
-      "security_567d0d575bbd30aaa91d": "required_session_missing",
-      "security_798e2fb944d740aca308": "required_session_missing",
-      "security_89969b7dac39b7db5661": "required_session_missing",
-      "security_8b703a8adf5f864acaa4": "required_session_missing",
-      "security_95351d928b674bbdf687": "required_session_missing",
-      "security_96ba305ee7cd586bc348": "required_session_missing",
-      "security_9b0db3bc77914b23a307": "required_session_missing",
-      "security_cc4dcb8f002b61dffe00": "required_session_missing",
-      "security_ccb25582c0392492fe9e": "required_session_missing",
-      "security_d08d763780400dfbffce": "required_session_missing",
-      "security_dc8486c1d61df62a22fd": "required_session_missing",
-      "security_e19c7fe27fbcc4cd923d": "market_request_or_runtime_budget_exhausted",
-      "security_ef35e41886220d51c22c": "corporate_action_reconciliation_failed",
-      "security_ef418f5ccc7dc5be8e65": "market_request_or_runtime_budget_exhausted",
-      "security_f2b9760d847b2ba59324": "market_request_or_runtime_budget_exhausted",
-      "security_f34181f3df32080a91d1": "market_request_or_runtime_budget_exhausted",
-      "security_fb87fac302a5446a1ced": "market_request_or_runtime_budget_exhausted",
-      "security_fe4648901e7675f157fd": "market_request_or_runtime_budget_exhausted",
-      "security_fe5539a7d3fd9d553bce": "market_request_or_runtime_budget_exhausted"
+      "security_6ad1af8d10d6276a0221": "required_session_missing",
+      "security_cb88f9154cfeaa15e878": "required_session_missing"
     },
-    "http_requests": 282,
-    "last_attempt_at": "2026-11-03T00:07:51Z",
+    "http_requests": 287,
+    "last_attempt_at": "2026-11-03T22:38:27Z",
     "last_success_at": "2026-10-30T21:10:59Z",
-    "provider_calls": 24,
+    "provider_calls": 16,
     "status": "degraded"
   },
   "research": {

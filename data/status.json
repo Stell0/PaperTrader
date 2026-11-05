@@ -2,15 +2,15 @@
   "market": {
     "exit_code": 2,
     "failed_tickers": {
-      "security_2c779e81c27b78c556bb": "required_session_missing",
-      "security_488a9d7f7a8573597724": "required_session_missing",
-      "security_ad5917642acbba28c1f2": "required_session_missing",
-      "security_cc4dcb8f002b61dffe00": "required_session_missing"
+      "security_4935c6e39e38273a1731": "required_session_missing",
+      "security_6ac6a6268ca7c08829ae": "required_session_missing",
+      "security_8472507d7d320aa388a7": "required_session_missing",
+      "security_cb88f9154cfeaa15e878": "required_session_missing"
     },
-    "http_requests": 291,
-    "last_attempt_at": "2026-11-04T22:57:19Z",
+    "http_requests": 289,
+    "last_attempt_at": "2026-11-05T22:58:14Z",
     "last_success_at": "2026-10-30T21:10:59Z",
-    "provider_calls": 18,
+    "provider_calls": 17,
     "status": "degraded"
   },
   "research": {

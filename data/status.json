@@ -1,17 +1,12 @@
 {
   "market": {
-    "exit_code": 2,
-    "failed_tickers": {
-      "security_4935c6e39e38273a1731": "required_session_missing",
-      "security_6ac6a6268ca7c08829ae": "required_session_missing",
-      "security_8472507d7d320aa388a7": "required_session_missing",
-      "security_cb88f9154cfeaa15e878": "required_session_missing"
-    },
-    "http_requests": 289,
-    "last_attempt_at": "2026-11-05T22:58:14Z",
-    "last_success_at": "2026-10-30T21:10:59Z",
-    "provider_calls": 17,
-    "status": "degraded"
+    "exit_code": 0,
+    "failed_tickers": {},
+    "http_requests": 281,
+    "last_attempt_at": "2026-11-06T22:28:27Z",
+    "last_success_at": "2026-11-06T22:28:27Z",
+    "provider_calls": 13,
+    "status": "succeeded"
   },
   "research": {
     "discovery_status": "succeeded",

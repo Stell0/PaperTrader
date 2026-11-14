@@ -129,12 +129,12 @@
   ],
   "coverage": {
     "current": 55,
-    "failed_tickers": 4,
+    "failed_tickers": 1,
     "instruments": 94,
     "issuers": 93,
     "researched": 92,
     "stale": 37,
-    "unrated": 61,
+    "unrated": 60,
     "watchlist_complete": 83,
     "watchlist_incomplete_research": 0,
     "watchlist_instruments": 93,
@@ -146,7 +146,7 @@
   "last_research_at": "2026-10-23T20:13:28.238153Z",
   "last_successful_research": "2026-10-23T20:15:14Z",
   "phase_health": {
-    "market": "degraded",
+    "market": "succeeded",
     "research": "succeeded"
   },
   "sells": [

@@ -37,9 +37,9 @@ Confidence scales prospective return toward zero: high x1, medium x0.7, low x0.4
 
 ## Coverage and health
 
-93 companies / 94 instruments; 92 assessed, 55 in date, 37 stale; 61 currently unrated. 4 quotes require attention.
+93 companies / 94 instruments; 92 assessed, 55 in date, 37 stale; 60 currently unrated. 1 quotes require attention.
 
-Last observed market session: 2026-11-13. Last successful research: 2026-10-23T20:15:14Z. Market: degraded; research: succeeded. Publication has an independent deployment outcome; its revision and build date appear in the deployed snapshot metadata.
+Last observed market session: 2026-11-13. Last successful research: 2026-10-23T20:15:14Z. Market: succeeded; research: succeeded. Publication has an independent deployment outcome; its revision and build date appear in the deployed snapshot metadata.
 
 Watchlist valuation coverage: **83 / 93 instruments** have complete sourced bear/base/bull research, including historical assessments. Missing research: 2; unsupported valuation: 8; incomplete research: 0. Needs attention: 3. Baseline coverage and current freshness are separate: expired research never enters current rankings. Missing or incomplete coverage is scheduled ahead of ordinary expiry refreshes within the daily budget. Unsupported cases remain visible until evidence supports a valuation.
 
@@ -50,7 +50,7 @@ Watchlist valuation coverage: **83 / 93 instruments** have complete sourced bear
 - [Quanta Services, Inc.](securities/security_488a9d7f7a8573597724) — 2026-10-23T20:09:37.071756Z; hold
 - [QUALCOMM Incorporated](securities/security_3a75fc1ccca2ee7c937a) — 2026-10-22T20:26:18.005794Z; hold
 - [Freeport-McMoRan Inc.](securities/security_2dbe878dfc899d7ee867) — 2026-10-22T20:24:15.882831Z; sell
-- [Ternium S.A.](securities/security_2c779e81c27b78c556bb) — 2026-10-22T20:22:14.499873Z; market_stale_or_unavailable
+- [Ternium S.A.](securities/security_2c779e81c27b78c556bb) — 2026-10-22T20:22:14.499873Z; hold
 - [Amazon.com, Inc.](securities/security_2433a056eb0c55961fcc) — 2026-10-21T20:29:36.380404Z; hold
 - [Strategy Inc](securities/security_fe5539a7d3fd9d553bce) — 2026-10-21T20:27:33.369332Z; valuation_unsupported
 - [Xometry, Inc.](securities/security_c2e6db30cb59254de418) — 2026-10-21T20:25:31.299835Z; sell

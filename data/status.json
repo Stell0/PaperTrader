@@ -2,7 +2,6 @@
   "market": {
     "exit_code": 2,
     "failed_tickers": {
-      "security_0c8b3c4291cd97f56d8c": "market_request_or_runtime_budget_exhausted",
       "security_3853e54c619d597dcaa1": "required_session_missing",
       "security_567d0d575bbd30aaa91d": "required_session_missing",
       "security_798e2fb944d740aca308": "required_session_missing",
@@ -14,14 +13,14 @@
       "security_d08d763780400dfbffce": "required_session_missing",
       "security_dc8486c1d61df62a22fd": "required_session_missing",
       "security_e19c7fe27fbcc4cd923d": "required_session_missing",
+      "security_ed7d5b616a196969c815": "market_request_or_runtime_budget_exhausted",
+      "security_ef35e41886220d51c22c": "market_request_or_runtime_budget_exhausted",
       "security_ef418f5ccc7dc5be8e65": "required_session_missing",
-      "security_f34181f3df32080a91d1": "market_request_or_runtime_budget_exhausted",
-      "security_fb87fac302a5446a1ced": "market_request_or_runtime_budget_exhausted",
-      "security_fe4648901e7675f157fd": "market_request_or_runtime_budget_exhausted",
-      "security_fe5539a7d3fd9d553bce": "market_request_or_runtime_budget_exhausted"
+      "security_f18cd57a5e086583c861": "market_request_or_runtime_budget_exhausted",
+      "security_f2b9760d847b2ba59324": "market_request_or_runtime_budget_exhausted"
     },
-    "http_requests": 280,
-    "last_attempt_at": "2026-11-18T00:06:47Z",
+    "http_requests": 281,
+    "last_attempt_at": "2026-11-18T23:39:41Z",
     "last_success_at": "2026-11-14T21:45:22Z",
     "provider_calls": 24,
     "status": "degraded"

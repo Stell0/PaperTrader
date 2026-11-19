@@ -1,13 +1,13 @@
 {
   "buys": [],
   "coverage": {
-    "current": 12,
-    "failed_tickers": 17,
+    "current": 9,
+    "failed_tickers": 26,
     "instruments": 94,
     "issuers": 93,
     "researched": 92,
-    "stale": 80,
-    "unrated": 85,
+    "stale": 83,
+    "unrated": 87,
     "watchlist_complete": 83,
     "watchlist_incomplete_research": 0,
     "watchlist_instruments": 93,
@@ -15,7 +15,7 @@
     "watchlist_needs_attention": 3,
     "watchlist_valuation_unsupported": 8
   },
-  "last_market_session": "2026-11-18",
+  "last_market_session": "2026-11-19",
   "last_research_at": "2026-10-23T20:13:28.238153Z",
   "last_successful_research": "2026-10-23T20:15:14Z",
   "phase_health": {
@@ -24,16 +24,16 @@
   },
   "sells": [
     {
-      "adjusted_return_pct": "-23.37400528320358813277190701",
+      "adjusted_return_pct": "-19.56908132883930439737806292",
       "assessed_at": "2026-10-21T20:25:31.299835Z",
       "base_fair_value": "79",
       "company_name": "Xometry, Inc.",
       "confidence": "medium",
       "currency": "USD",
-      "expected_return_pct": "-33.39143611886226876110272430",
+      "expected_return_pct": "-27.95583046977043485339723274",
       "issuer_id": "issuer_dbdde9b294689a9af3d5",
-      "price": "120.4800033569336",
-      "price_date": "2026-11-18",
+      "price": "111.38999938964844",
+      "price_date": "2026-11-19",
       "rating": "sell",
       "research_page": "data/wiki/securities/security_c2e6db30cb59254de418.md",
       "security_id": "security_c2e6db30cb59254de418",

@@ -21,7 +21,7 @@ Confidence scales prospective return toward zero: high x1, medium x0.7, low x0.4
 
 ## Coverage and health
 
-93 companies / 94 instruments; 92 assessed, 2 in date, 90 stale; 93 currently unrated. 1 quotes require attention.
+93 companies / 94 instruments; 92 assessed, 0 in date, 92 stale; 94 currently unrated. 1 quotes require attention.
 
 Last observed market session: 2026-11-20. Last successful research: 2026-10-23T20:15:14Z. Market: succeeded; research: succeeded. Publication has an independent deployment outcome; its revision and build date appear in the deployed snapshot metadata.
 
@@ -31,7 +31,7 @@ Watchlist valuation coverage: **83 / 93 instruments** have complete sourced bear
 
 - [Powell Industries, Inc.](securities/security_0b67d6c8e3fd3366a257) — 2026-10-23T20:13:28.238153Z; valuation_unsupported
 - [Corsair Gaming, Inc.](securities/security_55c9ce2fdcd32dad6b8c) — 2026-10-23T20:11:46.578958Z; research_expired_or_future
-- [Quanta Services, Inc.](securities/security_488a9d7f7a8573597724) — 2026-10-23T20:09:37.071756Z; hold
+- [Quanta Services, Inc.](securities/security_488a9d7f7a8573597724) — 2026-10-23T20:09:37.071756Z; research_expired_or_future
 - [QUALCOMM Incorporated](securities/security_3a75fc1ccca2ee7c937a) — 2026-10-22T20:26:18.005794Z; research_expired_or_future
 - [Freeport-McMoRan Inc.](securities/security_2dbe878dfc899d7ee867) — 2026-10-22T20:24:15.882831Z; research_expired_or_future
 - [Ternium S.A.](securities/security_2c779e81c27b78c556bb) — 2026-10-22T20:22:14.499873Z; research_expired_or_future

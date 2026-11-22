@@ -1,13 +1,13 @@
 {
   "buys": [],
   "coverage": {
-    "current": 2,
+    "current": 0,
     "failed_tickers": 1,
     "instruments": 94,
     "issuers": 93,
     "researched": 92,
-    "stale": 90,
-    "unrated": 93,
+    "stale": 92,
+    "unrated": 94,
     "watchlist_complete": 83,
     "watchlist_incomplete_research": 0,
     "watchlist_instruments": 93,

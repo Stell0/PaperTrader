@@ -1,12 +1,30 @@
 {
   "market": {
-    "exit_code": 0,
-    "failed_tickers": {},
-    "http_requests": 125,
-    "last_attempt_at": "2026-11-21T22:30:41Z",
+    "exit_code": 2,
+    "failed_tickers": {
+      "security_3853e54c619d597dcaa1": "required_session_missing",
+      "security_567d0d575bbd30aaa91d": "required_session_missing",
+      "security_798e2fb944d740aca308": "required_session_missing",
+      "security_89969b7dac39b7db5661": "required_session_missing",
+      "security_8b703a8adf5f864acaa4": "required_session_missing",
+      "security_96ba305ee7cd586bc348": "required_session_missing",
+      "security_cc4dcb8f002b61dffe00": "required_session_missing",
+      "security_ccb25582c0392492fe9e": "required_session_missing",
+      "security_d08d763780400dfbffce": "required_session_missing",
+      "security_dc8486c1d61df62a22fd": "required_session_missing",
+      "security_e19c7fe27fbcc4cd923d": "required_session_missing",
+      "security_ef418f5ccc7dc5be8e65": "required_session_missing",
+      "security_f2b9760d847b2ba59324": "market_request_or_runtime_budget_exhausted",
+      "security_f34181f3df32080a91d1": "market_request_or_runtime_budget_exhausted",
+      "security_fb87fac302a5446a1ced": "market_request_or_runtime_budget_exhausted",
+      "security_fe4648901e7675f157fd": "market_request_or_runtime_budget_exhausted",
+      "security_fe5539a7d3fd9d553bce": "market_request_or_runtime_budget_exhausted"
+    },
+    "http_requests": 280,
+    "last_attempt_at": "2026-11-24T03:32:25Z",
     "last_success_at": "2026-11-21T22:30:41Z",
-    "provider_calls": 6,
-    "status": "succeeded"
+    "provider_calls": 24,
+    "status": "degraded"
   },
   "research": {
     "discovery_status": "succeeded",

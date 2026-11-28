@@ -2,7 +2,7 @@
   "buys": [],
   "coverage": {
     "current": 0,
-    "failed_tickers": 38,
+    "failed_tickers": 18,
     "instruments": 94,
     "issuers": 93,
     "researched": 92,
@@ -15,7 +15,7 @@
     "watchlist_needs_attention": 3,
     "watchlist_valuation_unsupported": 8
   },
-  "last_market_session": "2026-11-26",
+  "last_market_session": "2026-11-27",
   "last_research_at": "2026-10-23T20:13:28.238153Z",
   "last_successful_research": "2026-10-23T20:15:14Z",
   "phase_health": {
